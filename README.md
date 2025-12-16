@@ -72,11 +72,6 @@ The Tableau dashboard provides:
 ![Screenshot_16-12-2025_194556_github com](https://github.com/user-attachments/assets/dc3d5de3-2357-422b-ab1c-2c0f3b585d6c)
 
 
-## 👤 Ideal For
-
-* Demonstrating **SQL + Python + BI** skills in one project
-
-
 
 ![Data Analysis](https://github.com/user-attachments/assets/9c777dbb-97d5-46fa-bdf8-38c4801e6104)
 ![volume equaliser](https://github.com/user-attachments/assets/51a6e759-4aba-4598-8af3-00e25c6dbe14)
