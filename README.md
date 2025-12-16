@@ -1,6 +1,4 @@
-Dataset:
-
-Music streaming user data with demographics, subscription type, listening behavior, and device usage.
+Dataset: Music streaming user data with demographics, subscription type, listening behavior, and device usage.
 
 Objective:
 
