@@ -1,61 +1,80 @@
+# 🎧 Music Streaming User Analytics | Data Analysis Project
 
-# 🎵 Music Streaming User Analytics Project
+## 📌 Overview
 
-## 📌 Project Overview
+An **end-to-end data analytics project** focused on analyzing **music streaming user behavior** to derive **business-driven insights**. The project explores how **demographics, subscription type, device usage, and ads exposure** influence user engagement and retention, presented through an **interactive Tableau dashboard**.
 
-This project analyzes **music streaming user data** to uncover insights related to **user engagement, demographics, subscription behavior, and device usage**. The goal is to transform raw data into **actionable business insights** using data analysis and visualization tools.
+## 🎯 Business Objective
 
-## 📂 Dataset Description
+Help a music streaming platform:
 
-The dataset includes anonymized music streaming user data covering:
+* Improve **user engagement**
+* Optimize **subscription conversion**
+* Understand **device and demographic behavior**
+* Measure the impact of **ads on free users**
 
-* User demographics (age group, gender, region)
+## 📂 Dataset Summary
+
+The dataset contains anonymized user-level data including:
+
+* Demographics (age group, gender, region)
 * Subscription type (Free / Premium)
-* Listening behavior (hours streamed, frequency)
+* Listening activity (hours streamed, sessions)
 * Device usage (mobile, desktop, tablet)
-* Advertisement exposure (for free users)
+* Advertisement exposure
 
-## 🎯 Objective
+## 🧠 Key KPIs Tracked
 
-To analyze user listening behavior in order to:
+* **Total Active Users**
+* **Average Listening Hours per User**
+* **Premium vs Free User Ratio**
+* **Ad-Exposed vs Non-Ad Users**
+* **Device-wise Usage Share**
+* **Engagement Rate by Demographic Group**
+* **Subscription-wise Retention Trend**
 
-* Understand **engagement patterns**
-* Identify **demographic trends**
-* Measure the **impact of subscription type and ads**
-* Evaluate **device-wise usage behavior**
-* Present insights through **interactive dashboards**
+## 🛠️ Tools & Skills Demonstrated
 
-## 🛠️ Tools Used
+* **Python** – Data cleaning, EDA, feature insights
+* **MySQL** – Business-driven analytical queries
+* **Tableau** – Interactive dashboards & storytelling
+* **Jupyter Notebook** – Structured analysis workflow
 
-* **Python** – Data cleaning and exploratory data analysis
-* **MySQL** – Querying and data transformation
-* **Tableau** – Interactive dashboard creation
-* **Jupyter Notebook** – Analysis and visualization
+## 📁 Repository Structure
+
+```
+├── Clean Dataset/        # Cleaned and transformed datasets
+├── MySQL Scripts/       # SQL queries for KPI & trend analysis
+├── Python Notebook/    # EDA and data processing
+├── Tableau Dashboard/  # Interactive dashboard files
+├── README.md           # Project documentation
+```
+
+## 📊 Key Insights
+
+* **Premium users** show significantly higher listening hours and engagement
+* **Mobile devices** account for the majority of platform usage
+* **Ad exposure** reduces session duration among free users
+* Certain **demographic segments** demonstrate stronger retention patterns
+* Subscription type is a key driver of long-term engagement
+
+## 📈 Dashboard Highlights
+
+The Tableau dashboard provides:
+
+* Subscription-wise engagement comparison
+* Device usage distribution
+* Demographic-based listening behavior
+* KPI summary with dynamic filters
+
+### 🖼️ Dashboard Screenshots
+
+![Screenshot_16-12-2025_194556_github com](https://github.com/user-attachments/assets/dc3d5de3-2357-422b-ab1c-2c0f3b585d6c)
 
 
-## 📊 Key Insights Generated
+## 👤 Ideal For
 
-* Listening behavior varies significantly across **subscription types**
-* **Premium users** show higher engagement and longer session durations
-* **Mobile devices** dominate music consumption
-* Ad exposure impacts listening time for free users
-* Certain demographics show stronger platform loyalty
-
-## 📈 Deliverables
-
-* Cleaned and structured dataset
-* SQL-based analytical queries
-* Python-based EDA notebook
-* Interactive Tableau dashboard
-* Business-focused insights and recommendations
-
-## 🚀 Use Case
-
-This project is ideal for:
-
-* Data Analyst / Business Analyst portfolios
-* Understanding user engagement in **subscription-based platforms**
-* Demonstrating end-to-end analytics workflow
+* Demonstrating **SQL + Python + BI** skills in one project
 
 
 
